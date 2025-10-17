@@ -25,3 +25,7 @@ Bagian ini berisi proyek-proyek Python saya. Saya menggunakan Python untuk menge
 - **`Pencari Kata`**: Program yang dapat digunakan untuk mencari sebuah kata pada suatu kalimat.
 - **`Pencatat Keuangan (CLI)`**: Program untuk melakukan pencatatan terhadap pemasukan dan pengeluaran dengan fitur histori.
 - **`Tic-Tac-Toe`**: Permainan klasik sederhana, namun belum adanya kecerdasan komputer untuk melakukan pengambilan keputusan yang tepat.
+
+#### Python
+Berikut merupakan perkembangan saya dengan membuat berbagai project menggunakan raylib:
+- **`Simple Pong`**: Permainan Pong Klasik dengan mode 2 players.
