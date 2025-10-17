@@ -26,6 +26,6 @@ Bagian ini berisi proyek-proyek Python saya. Saya menggunakan Python untuk menge
 - **`Pencatat Keuangan (CLI)`**: Program untuk melakukan pencatatan terhadap pemasukan dan pengeluaran dengan fitur histori.
 - **`Tic-Tac-Toe`**: Permainan klasik sederhana, namun belum adanya kecerdasan komputer untuk melakukan pengambilan keputusan yang tepat.
 
-#### Python
+#### Raylib
 Berikut merupakan perkembangan saya dengan membuat berbagai project menggunakan raylib:
 - **`Simple Pong`**: Permainan Pong Klasik dengan mode 2 players.
